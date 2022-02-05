@@ -1,0 +1,14 @@
+c:\Users\Alejandro\programming-rust\projects\mandelbrot\target\debug\deps\png-bb248c036529d005.rmeta: C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\lib.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\chunk.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\crc.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\mod.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\stream.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\encoder.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\filter.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\traits.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\common.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\utils.rs
+
+c:\Users\Alejandro\programming-rust\projects\mandelbrot\target\debug\deps\png-bb248c036529d005.d: C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\lib.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\chunk.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\crc.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\mod.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\stream.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\encoder.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\filter.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\traits.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\common.rs C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\utils.rs
+
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\lib.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\chunk.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\crc.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\mod.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\decoder\stream.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\encoder.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\filter.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\traits.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\common.rs:
+C:\Users\Alejandro\.cargo\registry\src\github.com-1ecc6299db9ec823\png-0.7.0\src\utils.rs:
